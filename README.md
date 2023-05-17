@@ -1,3 +1,1 @@
-# Github-Colaborations-Network
-
-Graph Network buid from Github archives.
+Se você quiser salvar algum arquivo permanentemente, ele deve estar nessa pasta.
