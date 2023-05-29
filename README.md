@@ -1,2 +1,2 @@
 ## Github-Colaborations-Network
-Build a graph netwkor of Github collaborations (PR's and commits)
+Build a graph network of Github collaborations (PR's and commits)
